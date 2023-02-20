@@ -12,7 +12,7 @@ interface DragTarget {
 
 enum ProjectStatus {
   Active,
-  Finished,
+  Finished
 }
 
 class Project {
@@ -91,7 +91,7 @@ function Autobind(_: any, __: string, descriptor: PropertyDescriptor) {
     enumerable: false,
     get() {
       return method.bind(this);
-    },
+    }
   } as PropertyDescriptor;
 }
 
