@@ -7,6 +7,7 @@ In this project, I learned how to use TypeScript to build a drag and drop projec
 You can switch between branches to see the different versions of the project:
 
 `main` - Contains the Modules version of the project.
+
 [`namespaces`](https://github.com/lucrnz/ts-practice-drag-and-drop/tree/namespaces) - Contains the Namespaces version of the project.
 
 ## How to run
