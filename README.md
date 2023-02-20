@@ -4,7 +4,12 @@ This is a practice project followed from the Udemy course [Understanding TypeScr
 
 In this project, I learned how to use TypeScript to build a drag and drop project.
 
-The source code contains all the classes in the same file, because at the point of the course I was following, the author was not using modules yet.
+This version uses TypeScript namespaces to organize the code.
+
+You can switch between branches to see the different versions of the project:
+
+`main` - Contains the Modules version of the project.
+`namespaces` - Contains the Namespaces version of the project.
 
 ## How to run
 
