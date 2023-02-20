@@ -8,7 +8,8 @@ This version uses TypeScript namespaces to organize the code.
 
 You can switch between branches to see the different versions of the project:
 
-`main` - Contains the Modules version of the project.
+[`main`](https://github.com/lucrnz/ts-practice-drag-and-drop) - Contains the Modules version of the project.
+
 `namespaces` - Contains the Namespaces version of the project.
 
 ## How to run
