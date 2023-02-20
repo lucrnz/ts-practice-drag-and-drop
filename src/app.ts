@@ -57,7 +57,7 @@ class ProjectState extends State<Project> {
 
   addProject(title: string, description: string, numOfpeople: number) {
     const project = new Project(
-      Math.random.toString(),
+      Math.random().toString(),
       title,
       description,
       numOfpeople,
