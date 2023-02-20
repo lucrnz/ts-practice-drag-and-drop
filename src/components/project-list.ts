@@ -2,6 +2,7 @@
 /// <reference path="../interfaces/drag-drop.ts" />
 /// <reference path="../decorators/autobind.ts" />
 /// <reference path="../state/project-state.ts" />
+/// <reference path="../models/project.ts" />
 
 namespace App {
   export class ProjectList
